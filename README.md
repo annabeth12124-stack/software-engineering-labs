@@ -4,9 +4,9 @@ My lab work for the Software Engineering course, one folder per lab.
 
 | Lab | Topic | Folder |
 |-----|-------|--------|
-| 1 | Requirements Engineering and UML Use-Case Modelling | [lab-01-requirements-use-case-modelling](lab-01-requirements-use-case-modelling) |
-| 2 | Agile Backlog Creation and Sprint Simulation in Jira | [lab-02-agile-backlog-jira](lab-02-agile-backlog-jira) |
-| 3 | Component Modelling and Architectural Pattern Selection | [lab-03-component-architecture](lab-03-component-architecture) |
+| 1 | Requirements Engineering and UML Use-Case Modelling | [lab-01-requirements-use-case-modelling](https://github.com/annabeth12124-stack/software-engineering-labs/tree/main/lab-01)|
+| 2 | Agile Backlog Creation and Sprint Simulation in Jira | [lab-02-agile-backlog-jira](https://github.com/annabeth12124-stack/software-engineering-labs/tree/main/lab-02) |
+| 3 | Component Modelling and Architectural Pattern Selection | [lab-03-component-architecture](https://github.com/annabeth12124-stack/software-engineering-labs/tree/main/lab-03) |
 | 4 | Vibe Coding: LLM-assisted debugging of a Pygame memory game | [lab-04-vibe-coding](lab-04-vibe-coding) |
 | 5 | Static Code Analysis (Pylint, Bandit, Flake8) | [lab-05-static-code-analysis](lab-05-static-code-analysis) |
 | 6 | Code and Branch Coverage Analysis | [lab-06-code-branch-coverage](lab-06-code-branch-coverage) |
